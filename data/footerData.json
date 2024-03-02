@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "link": "https://www.facebook.com/example.profile.3/",
+    "createdAt": "2023-05-02T15:26:17.851Z",
+    "updatedAt": "2023-05-02T15:40:04.050Z",
+    "publishedAt": "2023-05-02T15:27:43.814Z",
+    "iconClassName": "fa fa-facebook fa-lg"
+  },
+  {
+    "id": 2,
+    "link": "https://twitter.com/_lipsum?lang=en",
+    "createdAt": "2023-05-02T15:28:34.833Z",
+    "updatedAt": "2023-05-02T15:40:43.293Z",
+    "publishedAt": "2023-05-02T15:32:05.728Z",
+    "iconClassName": "fa fa-twitter fa-lg"
+  },
+  {
+    "id": 3,
+    "link": "https://www.instagram.com/lorem_ipsum_kl/?hl=en",
+    "createdAt": "2023-05-02T15:32:58.738Z",
+    "updatedAt": "2023-05-02T15:33:06.203Z",
+    "publishedAt": "2023-05-02T15:33:06.201Z",
+    "iconClassName": "fa fa-instagram fa-lg"
+  }
+]

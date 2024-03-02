@@ -1,0 +1,104 @@
+{
+  "id": 1,
+  "createdAt": "2023-05-01T10:34:44.831Z",
+  "updatedAt": "2023-05-01T10:34:51.857Z",
+  "publishedAt": "2023-05-01T10:34:51.855Z",
+  "backgroundImage": {
+    "id": 4,
+    "name": "3.jpg",
+    "alternativeText": null,
+    "caption": null,
+    "width": 1920,
+    "height": 1280,
+    "formats": {
+      "thumbnail": {
+        "name": "thumbnail_3.jpg",
+        "hash": "thumbnail_3_95cde11070",
+        "ext": ".jpg",
+        "mime": "image/jpeg",
+        "path": null,
+        "width": 234,
+        "height": 156,
+        "size": 3.46,
+        "url": "/uploads/thumbnail_3_95cde11070.jpg"
+      },
+      "large": {
+        "name": "large_3.jpg",
+        "hash": "large_3_95cde11070",
+        "ext": ".jpg",
+        "mime": "image/jpeg",
+        "path": null,
+        "width": 1000,
+        "height": 667,
+        "size": 44.48,
+        "url": "/uploads/large_3_95cde11070.jpg"
+      },
+      "medium": {
+        "name": "medium_3.jpg",
+        "hash": "medium_3_95cde11070",
+        "ext": ".jpg",
+        "mime": "image/jpeg",
+        "path": null,
+        "width": 750,
+        "height": 500,
+        "size": 27.28,
+        "url": "/uploads/medium_3_95cde11070.jpg"
+      },
+      "small": {
+        "name": "small_3.jpg",
+        "hash": "small_3_95cde11070",
+        "ext": ".jpg",
+        "mime": "image/jpeg",
+        "path": null,
+        "width": 500,
+        "height": 333,
+        "size": 13.12,
+        "url": "/uploads/small_3_95cde11070.jpg"
+      }
+    },
+    "hash": "3_95cde11070",
+    "ext": ".jpg",
+    "mime": "image/jpeg",
+    "size": 81.44,
+    "url": "/uploads/3_95cde11070.jpg",
+    "previewUrl": null,
+    "provider": "local",
+    "provider_metadata": null,
+    "createdAt": "2023-04-24T07:46:48.933Z",
+    "updatedAt": "2023-05-01T10:34:40.460Z"
+  },
+  "counters": [
+    {
+      "id": 1,
+      "label": "Hours of Works",
+      "value": "8241",
+      "createdAt": "2023-05-01T10:33:11.354Z",
+      "updatedAt": "2023-05-01T10:33:12.990Z",
+      "publishedAt": "2023-05-01T10:33:12.988Z"
+    },
+    {
+      "id": 3,
+      "label": "Projects Done",
+      "value": "315",
+      "createdAt": "2023-05-01T10:33:59.409Z",
+      "updatedAt": "2023-05-01T10:34:00.536Z",
+      "publishedAt": "2023-05-01T10:34:00.534Z"
+    },
+    {
+      "id": 2,
+      "label": "Satisfied Customers",
+      "value": "250",
+      "createdAt": "2023-05-01T10:33:38.649Z",
+      "updatedAt": "2023-05-01T10:33:39.114Z",
+      "publishedAt": "2023-05-01T10:33:39.111Z"
+    },
+    {
+      "id": 4,
+      "label": "Awards Winning",
+      "value": "32",
+      "createdAt": "2023-05-01T10:34:20.147Z",
+      "updatedAt": "2023-05-01T10:34:59.986Z",
+      "publishedAt": "2023-05-01T10:34:59.985Z"
+    }
+  ]
+}

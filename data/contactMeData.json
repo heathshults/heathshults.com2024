@@ -1,0 +1,50 @@
+{
+  "id": 1,
+  "copyright": "Copyright 2023 - Kyros by Designesia",
+  "createdAt": "2023-05-02T15:54:40.941Z",
+  "updatedAt": "2023-05-03T16:26:30.931Z",
+  "publishedAt": "2023-05-02T15:54:42.631Z",
+  "url": "https://www.envato.com",
+  "media_social_footers": [
+    {
+      "id": 1,
+      "iconClassName": "fa fa-facebook",
+      "link": "https://www.facebook.com/example.profile.3/",
+      "createdAt": "2023-05-02T15:42:45.809Z",
+      "updatedAt": "2023-05-02T15:42:58.579Z",
+      "publishedAt": "2023-05-02T15:42:58.577Z"
+    },
+    {
+      "id": 2,
+      "iconClassName": "fa fa-twitter",
+      "link": "https://twitter.com/_lipsum?lang=en",
+      "createdAt": "2023-05-02T15:43:27.464Z",
+      "updatedAt": "2023-05-02T15:43:31.906Z",
+      "publishedAt": "2023-05-02T15:43:31.904Z"
+    },
+    {
+      "id": 3,
+      "iconClassName": "fa fa-linkedin",
+      "link": "linkedin.com/in/lorem-ipsum-a4b8b9164",
+      "createdAt": "2023-05-02T15:45:33.829Z",
+      "updatedAt": "2023-05-02T15:45:34.446Z",
+      "publishedAt": "2023-05-02T15:45:34.445Z"
+    },
+    {
+      "id": 4,
+      "iconClassName": "fa fa-pinterest",
+      "link": "https://www.pinterest.com/loremip/",
+      "createdAt": "2023-05-02T15:46:11.782Z",
+      "updatedAt": "2023-05-02T15:46:12.454Z",
+      "publishedAt": "2023-05-02T15:46:12.452Z"
+    },
+    {
+      "id": 5,
+      "iconClassName": "fa fa-rss",
+      "link": "https://lorem-rss.herokuapp.com/",
+      "createdAt": "2023-05-02T15:47:08.666Z",
+      "updatedAt": "2023-05-02T15:47:09.450Z",
+      "publishedAt": "2023-05-02T15:47:09.449Z"
+    }
+  ]
+}
