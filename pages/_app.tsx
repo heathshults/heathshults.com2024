@@ -2,6 +2,7 @@ import 'font-awesome/css/font-awesome.min.css';
 import 'elegant-icons/style.css';
 import 'et-line/style.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
+import 'bootstrap/scss/bootstrap.scss';
 import 'owl.carousel/dist/assets/owl.carousel.css';
 import 'owl.carousel/dist/assets/owl.theme.default.css';
 import '../styles/animated.css';

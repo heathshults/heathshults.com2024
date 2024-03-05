@@ -2,13 +2,7 @@ import React, { useEffect, useState, useRef } from "react";
 import { Link } from "react-scroll";
 import Image from 'next/image';
 
-import logoImg from '../../public/img/logo.png';
-import logoImg1 from '../../public/img/logo-3.png';
-import logoImg2 from '../../public/img/logo-6.png';
-import logoImg3 from '../../public/img/logo-7.png';
-import logoImg4 from '../../public/img/logo-5.png';
-import logoImg5 from '../../public/img/logo-4.png';
-import logoImg6 from '../../public/img/logo-2.png';
+import logoImg from '../../public/img/hs-logo.png';
 
 const Navbar = function () {
   const [showMenu, setMenu] = useState(false);
@@ -37,12 +31,6 @@ const Navbar = function () {
         <div className="container">
           <Link  className="navbar-brand" activeClass="active" spy to="hero-area">
             <Image src={logoImg} className="img-fluid d-block imginit" alt="logo"/>
-            <Image src={logoImg1} className="img-fluid imgsaly" alt="logo"/>
-            <Image src={logoImg2} className="img-fluid imggrey" alt="logo"/>
-            <Image src={logoImg3} className="img-fluid imgchef" alt="logo"/>
-            <Image src={logoImg4} className="img-fluid imgdesigner" alt="logo"/>
-            <Image src={logoImg5} className="img-fluid imglawyer" alt="logo"/>
-            <Image src={logoImg6} className="img-fluid imgdark" alt="logo"/>
           </Link>
           {/* Desktop menu Here */}
           <div className="dekstopmenu">
