@@ -2,6 +2,9 @@ import { useEffect, useRef } from "react";
 import Aos from 'aos';
 import "aos/dist/aos.css";
 import Typed from 'typed.js';
+import Image from 'next/image';
+
+import floaterImg from '../img/background/tech-layer-right.png';
 
 function Hero() {
   const typeRef = useRef(null);
@@ -33,6 +36,11 @@ function Hero() {
       <div className="container">
         <div className="row">
           <div className="col-12">
+            <div className="hero-floater">
+              <div className="hero-floater-content">
+                <Image src={floaterImg} className="img-fluid d-block imginit" alt="hero" />
+              </div>
+            </div>
             <h6
               className="color"
               data-aos="fade-up"

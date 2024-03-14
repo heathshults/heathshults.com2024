@@ -16,9 +16,9 @@ import Contact from './section/contact';
 import Footer from './section/footer';
 import ScrollToTopBtn from './layout/ScrollToTop';
 import { createGlobalStyle } from 'styled-components';
+const mainBg = "./img/background/main-bg.jpg";
 
 const mebot = "./img/background/MEBOT.jpg";
-const image1 = "./img/background/Artboard-4-100.jpg";
 
 const GlobalStyles = createGlobalStyle`
   .navbar-brand .imginit{
@@ -64,7 +64,7 @@ export default function Home() {
 
       {/* HERO */}
       <section id="hero-area" className="py-0">
-        <Parallax bgImage={image1} strength={300}>
+        <Parallax bgImage={mainBg} strength={300}>
         <Hero/>
         <Link smooth spy to="about">
           <span className="mouse transition" id="fly">

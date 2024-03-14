@@ -28,7 +28,7 @@ const Navbar = function () {
     return(
       <header ref={headerRef} className={isSticky ? "sticky" : ""} id="header-wrap">
         <nav className="navbar transition">
-        <div className="container">
+        <div className="container-fluid">
           <Link  className="navbar-brand" activeClass="active" spy to="hero-area">
             <Image src={logoImg} className="img-fluid d-block imginit" alt="logo"/>
           </Link>
@@ -68,6 +68,20 @@ const Navbar = function () {
               <li className="nav-item">
                 <Link className="nav-link transition" activeClass="active" spy to="contact">
                   Contact Me
+                </Link>
+              </li>
+            </ul>
+          </div>
+          <div className="dekstopmenu">
+            <ul className="navbar-nav ml-auto">
+              <li className="nav-item"> 
+                <Link className="nav-link transition" activeClass="active" spy to="blog">
+                    Sign In
+                </Link>
+              </li>
+              <li className="nav-item"> 
+                <Link className="nav-link transition" activeClass="active" spy to="blog">
+                  Dark Mode
                 </Link>
               </li>
             </ul>
