@@ -5,7 +5,7 @@ import Aos from 'aos';
 import "aos/dist/aos.css";
 
 
-const image1 ="./img/background/2.jpg";
+const image1 ="./img/background/fingers.jpg";
 
 function Mblockquote() {
   useEffect(() => {
@@ -33,8 +33,10 @@ function Mblockquote() {
                             <div className="spacer-double"></div>
                             <blockquote className="q-big">
                                 <i className="d-big icon_quotations"></i>
-                                Do more than is required. What is the distance between someone who achieves their goals consistently and those who spend their lives and careers merely following? The extra mile.
-                                <span className="d-quote-by">Kyros Noriaki</span>
+                                I found that as a composer of music, I am also an orchestrator of components &amp; code.
+                                Then it occurred to me... both audible waves of sound and binary ones and zeros share the 
+                                same ability to achieve perfect harmony.  
+                                <span className="d-quote-by">Heath Shults</span>
                             </blockquote>
                             <div className="spacer-double"></div>
                             <div className="spacer-double"></div>

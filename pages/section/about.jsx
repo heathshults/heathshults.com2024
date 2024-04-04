@@ -47,10 +47,11 @@ function About() {
                       data-aos-easing="ease"
                       data-aos-once="true"
                         >
-                        <p>I am a website designer from Lousiana, with a strong focus in UI/UX design. 
-                          I love to get new experiences and always learn from my surroundings. 
-                          I&apos;ve done more than 285 projects. You can check it through portfolio section on
-                          this website. I looking forward to any opportunities and challenges.
+                        <p>I am an Interaction Designer and User Interface Engineer. I focus on user experience first 
+                          and then engineer and develop the user interface to match the interactive experience. 
+                        </p>
+                        <p>I am also a experienced musician and audio engineer. I have been playing guitar for over 30 
+                          years and have been recording and mixing music for over 20 years. 
                        </p>
                       </div>
               </div>

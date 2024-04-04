@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import * as React from 'react';
 import Head from 'next/head';
 import Image from 'next/image';
 import { Parallax } from "react-parallax";
@@ -30,7 +30,7 @@ const GlobalStyles = createGlobalStyle`
 `;
 
 export default function Home() {
-  useEffect(() => {
+  React.useEffect(() => {
       if (typeof window !== 'undefined') {
           const loader = document.getElementById('mainpreloader');
           if (loader)
