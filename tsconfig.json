@@ -2,11 +2,13 @@
   "compilerOptions": {
     "baseUrl": "src",
     "paths": {
+      "@/*": ["./src/*"],
       "@pages/*": ["pages/*"],
       "@api/*": ["api/*"],
       "@appConfig/*": ["appConfig/*"],
       "@data/*": ["data/*"],
       "@utils/*": ["utils/*"],
+      "@styles/*": ["styles/*"],
       "@img/*": ["public/img/*"],
     },
     "target": "es5",
@@ -22,7 +24,7 @@
     "resolveJsonModule": true,
     "isolatedModules": true,
     "jsx": "preserve",
-    "incremental": true
+    "incremental": true,
   },
   "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", "pages/appConfig"],
   "exclude": ["node_modules"]
